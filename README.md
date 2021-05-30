@@ -3,12 +3,20 @@
 This project contains UI codebase for Labforward code challenge.
 
 ## Scope of work
-UI is developed with Angular material components to support the REST endpoints.
-<br> Technology stack: Typescript, Angular 10, Angular Material Design components
+UI is developed with Angular 10 and Angular Material Components to support the REST endpoints.
+
+<br> Technology stack: Typescript, Angular 10, Angular Material Design Components
+
+## UI Screens
+* Add notes UI screen
+![add notes](doc/notes.png)
+
+* Search notes UI screen
+![search notes](doc/search.png)
 
 ## Further enhancements
 * Code coverage
-* Pagination to navigate Lab notes from UI
+* Pagination,Sorting to navigate Lab notes from UI
 * Better UI aesthetics and validations
 
 ## Local Development
